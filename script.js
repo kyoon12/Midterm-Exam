@@ -1,7 +1,7 @@
 let stock = {
-  1: { name: 'Laptop', price: 1500, quantity: 5, "image" : "https://img.freepik.com/premium-psd/laptop-mock-up_1310-197.jpg" },
+  1: { name: 'Laptop', price: 1500, quantity: 5,"iamge" :"https://img.freepik.com/premium-psd/laptop-mock-up_1310-197.jpg" },
   2: { name: 'Headphones', price: 100, quantity: 10, "image" : "https://img.freepik.com/free-photo/levitating-music-headphones-display_23-2149817601.jpg" },
-  3: { name: 'Keyboard', price: 50, quantity: 20, "iamge" : "https://img.freepik.com/free-photo/levitating-music-headphones-display_23-2149817601.jpg" }
+  3: { name: 'Keyboard', price: 50, quantity: 20, "image" : "https://img.freepik.com/free-photo/levitating-music-headphones-display_23-2149817601.jpg" }
 };
 
 let cart = [];
